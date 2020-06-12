@@ -1,0 +1,2 @@
+Prefix plugins/MClust/example/
+Plugin MClust inputfile iris.csv outputfile classify.csv
