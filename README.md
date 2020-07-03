@@ -1,7 +1,9 @@
-# Language: C++
-# Input: TXT
-# Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# MClust
+# Language: R
+# Input: CSV
+# Output: CSV
+# Tested with: PluMA 1.0, R 4.0.0
+# Dependency: mclust_5.4.6
 
 PluMA plugin to run the MClust (Scrucca et al, 2016) clustering algorithm.
 
